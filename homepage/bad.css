@@ -1,0 +1,31 @@
+.navbuttons {
+  color: #ffc44f;
+  text-align: center;
+  text-shadow: 3px 3px beige;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: center;
+  color: blueviolet;
+  border-color: aqua;
+  text-shadow: 5px 5px black;
+}
+
+img {
+  height: 60%;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#topdog {
+  background-image: url("images/adventuretimes.jpg");
+  height: 60%;
+  width: 100%;
+  background-size: cover;
+}
