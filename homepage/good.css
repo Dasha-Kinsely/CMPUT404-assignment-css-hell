@@ -1,0 +1,39 @@
+body {
+  background-image: url("images/concert.jpg");
+}
+.leftfloaters {
+  text-align: center;
+  width: 100px;
+  height: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  float: left;
+}
+
+.rightfloaters {
+  text-align: center;
+  width: 100px;
+  height: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  float: right;
+}
+
+#intro {
+  text-align: center;
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: xx-large;
+}
+
+h1 {
+  text-align: center;
+}
+
+img {
+  max-width: 200px;
+}
